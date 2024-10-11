@@ -1,0 +1,4 @@
+para otras maquinas despues de clonar usar:
+
+npm install
+
